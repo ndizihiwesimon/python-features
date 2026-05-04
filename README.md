@@ -1,6 +1,6 @@
-# Python: 10 Essential Features
+# Python: 10 Essential Features + 1 Bonus
 
-Short, focused examples demonstrating ten essential Python concepts. Each example is self-contained in its corresponding `featureN.py` file.
+Short, focused examples demonstrating ten essential Python concepts plus one bonus concept. Each example is self-contained in its corresponding `featureN.py` file.
 
 ## Features
 
@@ -14,6 +14,10 @@ Short, focused examples demonstrating ten essential Python concepts. Each exampl
 8. `feature8.py` — Generator example
 9. `feature9.py` — `itertools` utilities
 10. `feature10.py` — `asyncio` example
+
+## Bonus Feature
+
+11. `feature11.py` — Renaming dictionary keys across a list of dictionaries (in-place with `pop` and a comprehension-based approach)
 
 ## Quick start
 
